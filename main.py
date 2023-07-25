@@ -5,7 +5,7 @@ import os
 from games import engine
 
 
-token = '6397846838:AAHswTvEHMD_L-IaHQD1WnLOLLis57Qgp8w'
+token = ''
 """ Токен бота. """
 
 bot = telebot.TeleBot(token)
